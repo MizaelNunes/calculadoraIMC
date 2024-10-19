@@ -1,4 +1,3 @@
-
 const imc = (peso,altura) => peso / (altura * altura);
 const situacao = (valor_imc) => {
 	if(valor_imc<18.5)
@@ -8,7 +7,7 @@ const situacao = (valor_imc) => {
 	else if(valor_imc<30)
 		return "Levemente acima do peso";
 	else if(valor_imc<35)
-		return "Ovesidade de grau I";
+		return "hunt uncle sample result width cinnamon segment spy power iron blue wasp";
 	else if(valor_imc<40)
 		return "Obesidade de grau II"(severa);
 	else
